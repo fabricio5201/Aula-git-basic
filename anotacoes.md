@@ -1,14 +1,9 @@
 # Minhas anotações
+Comandos git
 
-uma anotacao
+## Comandos
 
-## outra Anotação
-algo para teste
-
-### Irineu
-sei la
-
-#### Edição posterior 
-
-Nao tem nada aqui, passa para o proximo
-
+git status
+git add anotacoes.md    
+git commit -m "texto"
+git push
