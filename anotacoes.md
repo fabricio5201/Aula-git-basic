@@ -1,6 +1,4 @@
-# Minhas anotações
-
-Comandos Git
+# Comandos Git
 
 ## Comandos
 
