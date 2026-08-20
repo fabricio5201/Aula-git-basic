@@ -1,7 +1,5 @@
 # Comandos Git
 
-## Comandos
-
 git status
 
 git add anotacoes.md
