@@ -2,9 +2,9 @@
 
 git status
 
-git add anotacoes.md
+git add anotacoes.md ( Adiciona o arquivo)
    
-git commit -m "texto" ()
+git commit -m "texto" ( Tira a imagem do script)
 
 git push ( Envia a imagem para git )
 
